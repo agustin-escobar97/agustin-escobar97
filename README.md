@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agustin-escobar97
 - 👀 I’m interested in Python wev development
 - 🌱 I’m currently learning Django, Flask and Panda libraries
-- 💞️ I’m looking to collaborate on a DevOps as a Junior Developer
+- 💞️ I’m looking to collaborate on a Developing team as a Junior Developer
 - 📫 How to reach me call me on my phone or my email agustin.escobar97@gmail.com
 
 <!---
